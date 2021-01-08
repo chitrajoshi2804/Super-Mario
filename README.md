@@ -1,2 +1,1 @@
-# Super-Mario
-Shreeya's Golden Project
+# Shreeya's Golden Project
